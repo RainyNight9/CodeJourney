@@ -1,16 +1,16 @@
 # CodeJourney 代码之旅
 
-## front-end 前端
+## 1、front-end 前端
 
-### HTML
+### 1.1、HTML
 
-### CSS
+### 1.2、CSS
 
-### JavaScript
+### 1.3、JavaScript
 
-### Vue
+### 1.4、Vue
 
-### React
+### 1.5、React
 
 ## back-end 后端
 
